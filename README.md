@@ -3,4 +3,4 @@
 
 На сайте издательства нет примеров кода из этой книги, поэтому они были получены через письмо на электронную почту. Они предоставили ссылку https://eksmo.ru/upload/java5thsrc-rus.zip возможно кому-нибудь пригодится.
 #
-![Java - Программирование для начинающих](https://github.com/palpalich721/java-for-beginners/blob/master/img/image.jpg)
+![Java - Программирование для начинающих](https://github.com/palpalich721/java-for-beginners/blob/main/image.jpg)
